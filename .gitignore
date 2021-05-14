@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/AssetStoreOriginals/
+Assets/FPS/
+Assets/ModAssets/
+Assets/NavMeshComponents/
+Assets/TextMesh Pro/
+connectwebgl.zip
